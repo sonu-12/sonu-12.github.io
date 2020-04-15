@@ -1,0 +1,217 @@
+
+body{
+
+background-color: #ffffff;
+position: sticky;
+
+
+}
+
+div.logo{
+position: relative;
+width: 60%;
+height: 40%;
+background-color: white;
+text-align: center;
+border: solid white;
+top: 0%;
+display: block;
+left: 20%;
+right: 20%;
+
+}
+
+.reg
+{
+font-family: 'Times New Roman', Times, serif;
+font-size: 230%;
+color: rgb(20, 43, 173);
+text-decoration: underline;
+}
+
+div.f
+{
+
+width: 60%;
+height: 100%;
+background-color: rgb(33, 199, 177);
+margin-left: 20%;
+margin-right: 20%;
+top: 0%;
+}
+
+
+.space{
+
+position: absolute;
+left: 30%;
+font-size: 120%;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.space1{
+
+    position: absolute;
+    left: 42%;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.space2{
+
+    position: absolute;
+    left: 33%;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.space3{
+
+    position: absolute;
+    left: 39%;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.genspace1{
+    position: absolute;
+    left:30%;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.genspace2{
+    position: absolute;
+    left: 32%;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+input[type="radio"] {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5);
+}
+
+input[type="checkbox"] {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5);
+}
+.genspace3{
+    position: absolute;
+    left: 34%;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.genspace4{
+    position: absolute;
+    left: 36.8%;
+    font-size: 120%;
+
+}
+
+.lab
+{
+font-size: 160%;
+margin-left: 1%;
+
+
+}
+
+/* td,th,tr{
+
+position: relative;
+left: 7.5cm;
+font-size: 0.7;
+
+
+   
+
+
+} */
+
+.tab{
+
+position: relative;
+font-size: 120%;
+left: 17%
+
+
+}
+.col1
+{
+
+position: relative;
+left: 0%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 120%;
+}
+
+.col2
+{
+
+position: relative;
+left: 5%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 120%;
+}
+
+.col3
+{
+
+position: relative;
+left: 8%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 120%;
+}
+.col4
+{
+
+position: relative;
+left: 9%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 120%;
+}
+
+.col5
+{
+
+position: relative;
+left: 10%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 120%;
+}
+
+
+.button1 {
+    position: relative;
+    left: 43%;
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5);
+}
+
+.button2 {
+    position: relative;
+    left: 48%;
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5);
+}
+
+.genspace1a{
+    position: absolute;
+    left:30%;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.genspace2a{
+    position: absolute;
+    left: 34%;
+    font-size: 120%;
+    font-family: 'Times New Roman', Times, serif;
+}
+

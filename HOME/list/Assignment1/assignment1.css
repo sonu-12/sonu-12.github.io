@@ -1,0 +1,83 @@
+td {
+    width: 4%;
+    border: 1px solid;
+    border-color: #FEA336;
+    text-align: center;
+}
+ .noBorder {
+    border: none;
+}
+ .heading {
+    background-color: #FEA336;
+    font-family: serif;
+    padding: 1%;
+    font-size: 300%;
+    color: #000000;
+}
+
+    ._color_1 {
+    background-color: #851717;
+    color: #FFFFFF;
+}
+
+.color_2 {
+    background-color:#0C246F;
+    color: #FFFFFF;
+}
+
+.color_3 {
+    background-color: #83a310;
+    color: #FFFFFF;
+}
+
+.color_4 {
+    background-color:#295252;
+    color: #FFFFFF;
+}
+
+.color_5 {
+    background-color:#603D3D;
+    color: #FFFFFF;
+}
+
+.color_6 {
+    background-color: #9BB906;
+    color: #FFFFFF;
+}
+
+.color_7 {
+    background-color: #3C2039;
+    color: #FFFFFF;
+}
+
+.color_8 {
+    background-color: #568F74;
+    color: #FFFFFF;
+}
+
+.color_9 {
+    background-color: #19424D;
+    color: #FFFFFF;
+}
+
+.color_10 {
+    background-color: #7a8376;
+    color: #FFFFFF;
+}
+
+body{
+
+    position: sticky;
+    background-color: #000000;
+    
+}
+
+.color{
+font-family: serif;
+font-style: oblique;
+font-size: 100%;
+color:#FEA336 ;
+
+}
+   
+
